@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2HTuJS5AvcXdhmbCl6RAamxe5Xs73iZfoH9ifboJybXIfDLZ7k5c+iRj9Wnk/AP0n+jbZZ8f7G8VbOT0bdIog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maya\\source\\repos\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maya\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.2\\microsoft.netcore.app.runtime.win-x64.3.1.2.nupkg.sha512",
+    "C:\\Users\\Maya\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.2\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.2.nupkg.sha512",
+    "C:\\Users\\Maya\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.2\\microsoft.aspnetcore.app.runtime.win-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
